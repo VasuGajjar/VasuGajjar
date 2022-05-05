@@ -51,6 +51,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasugajjar&show_icons=true&locale=en&layout=compact" alt="vasugajjar" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasugajjar&show_icons=true&theme=onedark&locale=en" alt="vasugajjar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasugajjar&show_icons=true&locale=en" alt="vasugajjar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasugajjar&" alt="vasugajjar" /></p>
