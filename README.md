@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vasugajjar1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FmURMYOq-zZJ1L8dSRzGysJ4G1UEXg1H/view?usp=sharing](click here)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1FmURMYOq-zZJ1L8dSRzGysJ4G1UEXg1H/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **Anime Lover** -->
 
