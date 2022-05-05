@@ -13,6 +13,12 @@
 
 <!-- - ⚡ Fun fact **Anime Lover** -->
 
+### My Top Projects:
+- [GrowthPad](https://github.com/VasuGajjar/growth_pad)
+- [Image Search App](https://github.com/VasuGajjar/ImageSearchApp)
+- [Covid19 Tracker](https://github.com/VasuGajjar/Covid19Tracker)
+- [Flash Chat](https://github.com/VasuGajjar/Flashchat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vasu-gajjar-ba22751b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-gajjar-ba22751b3" height="30" width="40" /></a>
