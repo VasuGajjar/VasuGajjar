@@ -14,6 +14,7 @@
 <!-- - ⚡ Fun fact **Anime Lover** -->
 
 ### My Top Projects:
+- [Music Player](https://github.com/VasuGajjar/music_player)
 - [GrowthPad](https://github.com/VasuGajjar/growth_pad)
 - [Image Search App](https://github.com/VasuGajjar/ImageSearchApp)
 - [Covid19 Tracker](https://github.com/VasuGajjar/Covid19Tracker)
