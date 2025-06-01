@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Vasu Gajjar
 ### 🚀 Backend Developer | Node.js & Golang Enthusiast | Flutter Explorer
 I'm a passionate backend developer with a knack for building scalable and efficient systems. With experience in Node.js, Golang, and Flutter, I enjoy creating solutions that are both robust and user-friendly.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasugajjar&label=Profile%20views&color=0e75b6&style=flat" alt="vasugajjar" /> </p>
 
 ---
 ### 🛠️ Tech Stack
