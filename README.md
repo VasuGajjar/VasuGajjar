@@ -1,61 +1,37 @@
-<h1 align="center">Hi 👋, I'm Vasu Gajjar</h1>
-<h3 align="center">A passionate flutter developer, android developer & graphic designer from India</h3>
+# 👋 Hi there, I'm Vasu Gajjar
+### 🚀 Backend Developer | Node.js & Golang Enthusiast | Flutter Explorer
+I'm a passionate backend developer with a knack for building scalable and efficient systems. With experience in Node.js, Golang, and Flutter, I enjoy creating solutions that are both robust and user-friendly.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasugajjar&label=Profile%20views&color=0e75b6&style=flat" alt="vasugajjar" /> </p>
+---
+### 🛠️ Tech Stack
+- **Languages:** Node.js, Golang, Java/Kotlin (Android), Dart (Flutter), C/C++, SQL
+- **Frameworks:** Express.js, NestJS, Hono, Gin
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Sybase
+- **Tools & Platforms:** Docker, AWS (S3, Route 53), GCP, Firebase, RabbitMQ, Nginx, Grafana
 
-- 🌱 I’m currently learning **nodejs, mongodb**
+---
+### 📂 Featured Projects
+#### [Rapid-MQ](https://github.com/VasuGajjar/rapid-mq)
+A lightweight Node.js library for seamless RabbitMQ integration, supporting Pub/Sub, RPC, and Direct messaging patterns.
 
-- 💬 Ask me about **flutter, kotlin, java**
+#### [GrowthPad](https://github.com/VasuGajjar/growth_pad)
+A Flutter-based society maintenance app managing bills, notices, and complaints for housing societies.
 
-- 📫 How to reach me **vasugajjar1@gmail.com**
+#### [Music Player](https://github.com/VasuGajjar/music_player)
+An elegant offline music player built with Flutter, offering a rich UI/UX experience.
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1FmURMYOq-zZJ1L8dSRzGysJ4G1UEXg1H/view?usp=sharing)
+---
+### 🏆 Achievements
+#### Winner – Smart Gujarat for New India Hackathon
+Developed an AI and IoT-powered Flood Monitoring and Alert System using real-time weather and water-level data. The solution included a Flutter-based mobile app for alerting locals and was awarded a ₹50,000 prize in the IoT category.
 
-<!-- - ⚡ Fun fact **Anime Lover** -->
+---
+### 📫 Let's Connect
+- 📧 Email: [vasugajjar1@gmail.com](mailto:vasugajjar1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vasu-gajjar-ba22751b3](https://linkedin.com/in/vasu-gajjar-ba22751b3)
 
-### My Top Projects:
-- [Music Player](https://github.com/VasuGajjar/music_player)
-- [GrowthPad](https://github.com/VasuGajjar/growth_pad)
-- [Image Search App](https://github.com/VasuGajjar/ImageSearchApp)
-- [Covid19 Tracker](https://github.com/VasuGajjar/Covid19Tracker)
-- [Flash Chat](https://github.com/VasuGajjar/Flashchat)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vasu-gajjar-ba22751b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-gajjar-ba22751b3" height="30" width="40" /></a>
-<a href="https://instagram.com/vasu_gajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_gajjar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-
-<h3 align="left">Framework & Tools:</h3>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-
-<h3 align="left">Backend & Database:</h3>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-
-<h3 align="left">Software:</h3>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-
-<br>
-<br>
-
+---
+### 📈 GitHub Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasugajjar&show_icons=true&locale=en&layout=compact" alt="vasugajjar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasugajjar&show_icons=true&locale=en" alt="vasugajjar" /></p>
